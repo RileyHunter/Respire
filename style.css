@@ -1,0 +1,19 @@
+* {
+    font-family: 'Ysabeau Infant', sans-serif;
+    text-align: center;
+    color: #808080;
+    background-color: peachpuff;
+    padding: 7%;
+}
+
+.primary {
+    font-size: xx-large;
+}
+
+.secondary {
+    font-size: medium;
+}
+
+.counter {
+    font-size: xx-large;
+}
